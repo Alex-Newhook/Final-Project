@@ -37,20 +37,21 @@ header {
 }
 
 body {
-    background-color: #1D1A39;
+    background-color: #eeeeeb;
     margin: 0;
     padding: 0;
     width: 100%;
 }
 
 h2{
-    color: #E8BCB9;
+    color: #120313;
     text-align: center;
 }
 
 footer > p {
-    color:#E8BCB9;
+    color:#120313;
     font-size: .7em;
     text-align: center;
     margin-top: 85%;
 }
+
